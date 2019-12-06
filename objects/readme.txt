@@ -1,1 +1,1 @@
-The output files in this folder were excluded from the git-repository and manually uploaded to osf.io, because some of the files exceeded the limit currently supported by github (i.e., 100MB).
+The "stage2" and "stage3" folders containing intermediate results (.Rdata files) were excluded from the git-repository and manually uploaded to osf.io, because some of the files exceeded the limit currently supported by github (i.e., 100MB).
